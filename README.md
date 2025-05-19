@@ -1,119 +1,51 @@
-<h1>Hi, I'm Josh! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+# 👋 Hi there, I'm Himanshu Affaria!
 
-<h2>👨‍💻 Software Development Projects:</h2>
+I'm a **Computer Science graduate** passionate about transforming raw data into meaningful insights. I love exploring data, building dashboards, and solving real-world problems using analytics and automation.
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+---
 
-<h2>📺 Popular YouTube Videos</h2>
+### 👀 I’m interested in:
+- Data Analytics & Business Intelligence
+- Machine Learning & Predictive Modeling
+- Data Visualization (Power BI, Tableau)
+- Python Automation & APIs
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+---
+
+### 🌱 I’m currently learning:
+- Advanced SQL for Analytics
+- Data Modeling & ETL with Power BI
+- Time Series Forecasting with Python
+- GitHub Actions for Data Workflows
+
+---
+
+### 💞️ I’m looking to collaborate on:
+- Open-source data analytics projects
+- Real-world dashboard building (Power BI / Tableau)
+- Python-based data automation tools
+- Kaggle-style EDA challenges
+
+---
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+✉️ Email: himanshuaffaria7@gmail.com  
+
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
+[linkedin]: https://linkedin.com/in/Himanshuaffaria7 
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 😄 Pronouns:
+He/Him
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-Chat
+---
 
-New Conversation
-
-🤓 Explain a complex thing
-
-Explain Artificial Intelligence so that I can explain it to my six-year-old child.
-
-
-🧠 Get suggestions and create new ideas
-
-Please give me the best 10 travel ideas around the world
-
-
-💭 Translate, summarize, fix grammar and more…
-
-Translate "I love you" French
-
-
-GPT-4o Mini
-Hello, how can I help you today?
-GPT-4o Mini
-Searched for:
-(Internet connection lost. Please try again)
- Ask original GPT-4o Mini
-
-    def reverseList(self, head
-GPT-4o Mini
-just summarize and record everything what ever is going in thsi session tab
-GPT-4o Mini
-Sure! In this session, the user provided a partial function definition for reversing a linked list in Python. The function is named `reverseList` and accepts a parameter named `head`, which typically refers to the head node of the linked list. The user did not provide further details or complete the function. 
-If you have any specific requests or need further assistance with the implementation, feel free to ask!
-GPT-4o Mini
-coin image
--
-Upgrade
-
-
-
-
-Ask me anything...
-
-
-
-Make a Review & Earn Credit ❤
-Chat
-Ask
-Search
-Write
-Image
-ChatFile
-Vision
-Full Page
-Invite & Earn
-
+### ⚡ Fun fact:
+When I’m not analyzing data, I’m either out exploring new places 📍, capturing moments through my lens 📷, or on the field playing football ⚽.
 
 ---
 
 *Thanks for stopping by! Let’s connect and build something awesome together 🚀*
-
-
-<!---
-HimanshuAffaria7/HimanshuAffaria7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
