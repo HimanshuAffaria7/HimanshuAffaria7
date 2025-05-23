@@ -22,21 +22,32 @@ I'm a **Computer Science graduate** passionate about transforming raw data into 
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+<ul>
+  <li><b>🎵 Emotion-Based Music System</b><br>
+    <a href="https://github.com/HimanshuAffaria7/Emotion-based-music-system" target="_blank">
+      Detects user emotion via facial expressions to suggest personalized music.
+    </a>
+  </li>
+  
+  <li><b>🧳 Suspicious Object Identification in Unattended Luggage (YOLO, OpenCV, AI)</b><br>
+    <a href="https://github.com/HimanshuAffaria7/Suspicious_Object_Identification_in_Unattended_Luggage_Using_AI" target="_blank">
+      AI-powered security system for detecting suspicious items in public spaces.
+    </a>
+  </li>
+  
+  <li><b>📊 Superstore Sales Dashboard (Power BI)</b><br>
+    <a href="https://github.com/HimanshuAffaria7/superstore-Sales-board" target="_blank">
+      Interactive dashboard for analyzing Superstore sales, profits, regions, and forecasts.
+    </a>
+  </li>
+
+  <li><b>🏏 T20 Cricket Data Analytics</b><br>
+    <a href="https://github.com/HimanshuAffaria7/data-analytics-on-cricket-" target="_blank">
+      Data-driven insights on T20 matches using Python, Pandas, and visualization tools.
+    </a>
+  </li>
+</ul>
+
  
 ---
 
