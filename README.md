@@ -46,6 +46,12 @@ I'm a **Computer Science graduate** passionate about transforming raw data into 
       Data-driven insights on T20 matches using Python, Pandas, and visualization tools.
     </a>
   </li>
+
+  <li><b> E-desktop-notifification-project</b><br>
+    <a href="https://github.com/HimanshuAffaria7/E-desktop-notifification-project" target="_blank">
+      A Python-based desktop notification system that reminds users to take breaks at regular intervals for better health and productivity. This tool promotes wellness by sending custom alerts about the importance of rest.
+    </a>
+  </li>
 </ul>
 
  
